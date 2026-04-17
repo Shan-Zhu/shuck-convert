@@ -1,5 +1,10 @@
 # shuck-convert
 
+<!-- mcp-name: io.github.Shan-Zhu/shuck-convert -->
+
+[![PyPI](https://img.shields.io/pypi/v/shuck-convert)](https://pypi.org/project/shuck-convert/)
+[![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
+
 Convert between document formats — DOCX/PDF to Markdown, Markdown to DOCX.
 
 An MCP server for AI agents, with CLI support.
