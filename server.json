@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Shan-Zhu/shuck-convert",
+  "title": "shuck-convert",
+  "description": "Convert between document formats — DOCX/PDF to Markdown, Markdown to DOCX.",
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "shuck-convert",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/Shan-Zhu/shuck-convert",
+    "source": "github"
+  }
+}
